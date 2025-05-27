@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation</h1>
+![](left-right_brain.png "")<h1>Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation</h1>
 
 
 <br>
