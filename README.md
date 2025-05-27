@@ -1,10 +1,7 @@
-<div align="center">
-
-![left-right_brain](https://github.com/user-attachments/assets/b9b634e8-3add-4bd8-b7df-308124756f32)<h1>
-Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation</h1>
+    
+# <img src="left-right_brain.png" height="30px"> Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation
 
 
-<br>
 
 <div>
     <a href='' target='_blank'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
