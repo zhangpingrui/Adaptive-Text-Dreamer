@@ -1,5 +1,6 @@
+<div align="center">
     
-# <img src="left-right_brain.png" height="30px"> Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation
+# <img src="left-right_brain.png" height="28px"> Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation
 
 
 
