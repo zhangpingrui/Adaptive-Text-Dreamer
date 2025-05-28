@@ -5,7 +5,7 @@
 
 
 <div>
-    <a href='' target='_blank'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+    <a href='http://arxiv.org/abs/2505.20897' target='_blank'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 <!--     <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> -->
 </div>
 
